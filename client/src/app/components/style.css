@@ -1,0 +1,13 @@
+.imgContainer {
+  display: grid;
+  grid-template-columns: repeat(3, 200px);
+  gap: 10px;
+  justify-content: center;
+}
+
+.form_container {
+  box-shadow: 0 60px 80px rgba(0, 0, 0, 0.6), 0 45px 26px rgba(0, 0, 0, 0.14);
+}
+.crops_container {
+  background-image: url("https://images.theconversation.com/files/275002/original/file-20190516-69195-1yg53ff.jpg?ixlib=rb-1.1.0&q=20&auto=format&w=320&fit=clip&dpr=2&usm=12&cs=strip");
+}
